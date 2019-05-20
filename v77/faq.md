@@ -31,7 +31,7 @@ Bref, vous l'aurez compris, tout le monde peut venir !
 
 T’inquiète pas, nous non plus ;)
 
-En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec nous sans être largué.
+En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec nous sans être largué.e.
 
 ### Mais c'est pas une formation ?
 
@@ -69,11 +69,11 @@ Pour ce montant tu pourras boire lorsque nous nous installerons dans des bars.
 
 ### Et si c’est trop cher pour moi ?
 
-Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution ?
+Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous. Ensemble on va bien trouver une solution!
 
 ### On mangera quoi ?
 
-Amène de quoi pique-niquer. On mangera dans un parc ou s'il pleut, nous connaissons des lieux accueillants fermés ;)
+Amène de quoi pique-niquer. On mangera dans un parc. S'il pleut, nous connaissons des lieux accueillants fermés ;)
 
 ### Pourquoi V-77 ?
 
@@ -81,7 +81,7 @@ C'est pas très explicite, mais en cherchant on trouve quand même facilement le
 
 ### C'est à Paris, je n'habite pas Paris et l'hôtel, c'est cher et pas chaleureux. Je fais comment ?
 
-Cela tombe bien, on a pensé à toi ! Il arrive parfois que des participants parisiens t'accueillent pour une nuit ou 2. Et [c'est par ici que ça se passe](https://github.com/walkingdev/ethique-dev/edit/master/v77/hebergement.md) !
+Cela tombe bien, on a pensé à toi ! Il arrive parfois que des participant.e.s parisien.ne.s t'accueillent pour une nuit ou 2. Et [c'est par ici que ça se passe](https://github.com/walkingdev/ethique-dev/edit/master/v77/hebergement.md) !
 
 #### Et si j'ai une question ?
 
