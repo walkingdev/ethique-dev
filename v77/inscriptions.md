@@ -16,3 +16,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/coaching/b
 * Toucheboeuf - Mathilde
 * Benett      - Thomas     - @tbenett_
 * Pelcat      - Elodie     - @Yuhiba_
+* Rodriguez   - Maura
