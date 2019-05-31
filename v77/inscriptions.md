@@ -15,5 +15,6 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/coaching/b
 * Bossavit    - Laurent    - @morendil
 * Toucheboeuf - Mathilde
 * Benett      - Thomas     - @tbenett_
-* Pelcat      - Elodie     - @Yuhiba_
 * Rodriguez   - Maura
+* Blayo       - Philippe   - @pblayo
+* Pelcat      - Elodie     - @Yuhiba_
