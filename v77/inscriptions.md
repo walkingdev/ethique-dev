@@ -18,3 +18,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/ethique-de
 * Rodriguez   - Maura
 * Blayo       - Philippe   - @pblayo
 * Pelcat      - Elodie     - @Yuhiba_
+* Valérie
