@@ -37,7 +37,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 Ben non. Enfin, ça dépend de toi. Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet.
 
-On essaye de t'offrir un [contexte](http://walkingdev.fr/#walkingdev/coaching/blob/master/v77/contexte.md) pour apprendre des choses et obtenir de l’aide quand tu le souhaites.
+On essaye de t'offrir un [contexte](http://walkingdev.fr/#walkingdev/ethique-dev/blob/master/v77/contexte.md) pour apprendre des choses et obtenir de l’aide quand tu le souhaites.
 
 ### On sera combien ?
 
@@ -47,7 +47,7 @@ Au moins 2, maximum 10, probablement autour de 7.
 
 En gros, il faut que tu prennes ta bonne humeur, de quoi pique-niquer pour le déjeuner et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/coaching/blob/master/v77/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/ethique-dev/blob/master/v77/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
