@@ -4,7 +4,7 @@ description: Une petite exploration ça se prépare, on t’a listé ce qui nous
 image_url: https://github.com/walkingdev/ethique-dev/blob/master/v77/media/banner-ethique-dev.jpg?raw=true
 ---
 
-# Session COACHING - V-77
+# Session ETHIQUE DEV - V-77
 
 ## Ta préparation
 
