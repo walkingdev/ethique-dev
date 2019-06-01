@@ -19,3 +19,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/ethique-de
 * Blayo       - Philippe   - @pblayo
 * Pelcat      - Elodie     - @Yuhiba_
 * Valérie
+* Ioana
