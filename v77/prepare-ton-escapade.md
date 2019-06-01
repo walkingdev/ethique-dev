@@ -10,6 +10,7 @@ image_url: https://github.com/walkingdev/ethique-dev/blob/master/v77/media/banne
 
 - Chaussures confortables pour marcher
 - Pique-nique
+- Une bouteille d'eau, il va faire chaud !
 
 ## Préparation des organisateurs
 * 1 laptop chargé
