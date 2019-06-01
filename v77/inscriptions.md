@@ -13,7 +13,6 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/ethique-de
 * Robillard   - Christophe - christophe@robiweb.net - @krichtof
 * Begault    - Agathe     - @gayahel
 * Bossavit    - Laurent    - @morendil
-* Toucheboeuf - Mathilde
 * Benett      - Thomas     - @tbenett_
 * Rodriguez   - Maura
 * Blayo       - Philippe   - @pblayo
